@@ -1,0 +1,662 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/Kj4YLTzr/1.jpg",
+    "title": "TaskFlow Pro",
+    "companyName": "Innovatech Solutions",
+    "description": "Seamless task management and team collaboration. Boost your productivity with smart features.",
+    "size": 52,
+    "reviews": 1250,
+    "ratingAvg": 4.5,
+    "downloads": "550K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 50
+      },
+      {
+        "name": "2 star",
+        "count": 100
+      },
+      {
+        "name": "3 star",
+        "count": 200
+      },
+      {
+        "name": "4 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 500
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/PZT17yRZ/2.webp",
+    "title": "MoneyWise Budget",
+    "companyName": "FinCorp Dynamics",
+    "description": "Track expenses, set budgets, and achieve financial freedom with ease.",
+    "size": 75,
+    "reviews": 980,
+    "ratingAvg": 4.7,
+    "downloads": "320K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 30
+      },
+      {
+        "name": "2 star",
+        "count": 50
+      },
+      {
+        "name": "3 star",
+        "count": 100
+      },
+      {
+        "name": "4 star",
+        "count": 300
+      },
+      {
+        "name": "5 star",
+        "count": 500
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/prZJbH18/3.jpg",
+    "title": "Aura Photo Editor",
+    "companyName": "Creative Studios",
+    "description": "Professional photo editing tools and creative filters for stunning results.",
+    "size": 110,
+    "reviews": 2100,
+    "ratingAvg": 4.2,
+    "downloads": "950K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 80
+      },
+      {
+        "name": "2 star",
+        "count": 150
+      },
+      {
+        "name": "3 star",
+        "count": 350
+      },
+      {
+        "name": "4 star",
+        "count": 700
+      },
+      {
+        "name": "5 star",
+        "count": 820
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/K8XGK5K/4.png",
+    "title": "FitTrack Daily",
+    "companyName": "Healthify Tech",
+    "description": "Personalized workout plans and nutrition tracking for a healthier lifestyle.",
+    "size": 65,
+    "reviews": 1500,
+    "ratingAvg": 4.8,
+    "downloads": "680K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "2 star",
+        "count": 40
+      },
+      {
+        "name": "3 star",
+        "count": 80
+      },
+      {
+        "name": "4 star",
+        "count": 450
+      },
+      {
+        "name": "5 star",
+        "count": 910
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/Wp2Rd21c/5.jpg",
+    "title": "LangMaster AI",
+    "companyName": "Global Edutech",
+    "description": "Learn new languages with AI-powered lessons and interactive exercises.",
+    "size": 95,
+    "reviews": 850,
+    "ratingAvg": 4.6,
+    "downloads": "410K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 25
+      },
+      {
+        "name": "2 star",
+        "count": 55
+      },
+      {
+        "name": "3 star",
+        "count": 120
+      },
+      {
+        "name": "4 star",
+        "count": 350
+      },
+      {
+        "name": "5 star",
+        "count": 300
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/8FwJYmX/6.jpg",
+    "title": "ConnectSphere",
+    "companyName": "Social Nexus",
+    "description": "The new way to connect with friends and share your life moments privately.",
+    "size": 88,
+    "reviews": 3200,
+    "ratingAvg": 3.9,
+    "downloads": "1.2M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 350
+      },
+      {
+        "name": "3 star",
+        "count": 700
+      },
+      {
+        "name": "4 star",
+        "count": 900
+      },
+      {
+        "name": "5 star",
+        "count": 1050
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/fKbntnn/7.png",
+    "title": "SkyCast Weather",
+    "companyName": "Predictive Systems",
+    "description": "Accurate hourly and 7-day weather forecasts with beautiful animations.",
+    "size": 45,
+    "reviews": 1100,
+    "ratingAvg": 4.4,
+    "downloads": "480K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 40
+      },
+      {
+        "name": "2 star",
+        "count": 80
+      },
+      {
+        "name": "3 star",
+        "count": 220
+      },
+      {
+        "name": "4 star",
+        "count": 360
+      },
+      {
+        "name": "5 star",
+        "count": 400
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/bj4TVv8y/8.jpg",
+    "title": "Galaxy Quest 3D",
+    "companyName": "GameCraft Studios",
+    "description": "An immersive space adventure game with stunning 3D graphics and storyline.",
+    "size": 350,
+    "reviews": 4500,
+    "ratingAvg": 4.1,
+    "downloads": "1.8M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 350
+      },
+      {
+        "name": "2 star",
+        "count": 500
+      },
+      {
+        "name": "3 star",
+        "count": 900
+      },
+      {
+        "name": "4 star",
+        "count": 1200
+      },
+      {
+        "name": "5 star",
+        "count": 1550
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/zH2rxVvw/9.jpg",
+    "title": "BeatFlow Player",
+    "companyName": "AudioVerse Inc.",
+    "description": "High-fidelity music player with customizable EQ and offline playback support.",
+    "size": 60,
+    "reviews": 750,
+    "ratingAvg": 4.9,
+    "downloads": "250K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 10
+      },
+      {
+        "name": "2 star",
+        "count": 20
+      },
+      {
+        "name": "3 star",
+        "count": 40
+      },
+      {
+        "name": "4 star",
+        "count": 200
+      },
+      {
+        "name": "5 star",
+        "count": 480
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/99qZ41Nd/10.jpg",
+    "title": "Wanderlust Guide",
+    "companyName": "Explore Global",
+    "description": "The ultimate travel companion with offline maps and local recommendations.",
+    "size": 180,
+    "reviews": 1400,
+    "ratingAvg": 4.3,
+    "downloads": "590K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 60
+      },
+      {
+        "name": "2 star",
+        "count": 110
+      },
+      {
+        "name": "3 star",
+        "count": 250
+      },
+      {
+        "name": "4 star",
+        "count": 450
+      },
+      {
+        "name": "5 star",
+        "count": 530
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "https://i.ibb.co.com/x8fYqXDd/11.webp",
+    "title": "ZenNote Simple",
+    "companyName": "Minimalist Apps",
+    "description": "A clean, distraction-free note-taking experience for quick ideas.",
+    "size": 30,
+    "reviews": 600,
+    "ratingAvg": 4.7,
+    "downloads": "210K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 15
+      },
+      {
+        "name": "2 star",
+        "count": 25
+      },
+      {
+        "name": "3 star",
+        "count": 70
+      },
+      {
+        "name": "4 star",
+        "count": 200
+      },
+      {
+        "name": "5 star",
+        "count": 290
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co.com/HDh3fqMz/12.png",
+    "title": "ShopSmart Deals",
+    "companyName": "E-Commerce Integrators",
+    "description": "Compare prices, find discounts, and track sales from your favorite stores.",
+    "size": 85,
+    "reviews": 1700,
+    "ratingAvg": 4.2,
+    "downloads": "760K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 90
+      },
+      {
+        "name": "2 star",
+        "count": 130
+      },
+      {
+        "name": "3 star",
+        "count": 300
+      },
+      {
+        "name": "4 star",
+        "count": 550
+      },
+      {
+        "name": "5 star",
+        "count": 630
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co.com/SDxVCbzC/13.jpg",
+    "title": "CodeMentor Practice",
+    "companyName": "DevSkills Academy",
+    "description": "Interactive coding challenges and programming tutorials for all skill levels.",
+    "size": 120,
+    "reviews": 1050,
+    "ratingAvg": 4.6,
+    "downloads": "390K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 30
+      },
+      {
+        "name": "2 star",
+        "count": 60
+      },
+      {
+        "name": "3 star",
+        "count": 150
+      },
+      {
+        "name": "4 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 410
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co.com/NgsgDMm5/14.webp",
+    "title": "MedReminder Pro",
+    "companyName": "PillTrack Health",
+    "description": "Never miss a dose again. Reliable medication reminders and health logs.",
+    "size": 40,
+    "reviews": 550,
+    "ratingAvg": 4.9,
+    "downloads": "180K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 5
+      },
+      {
+        "name": "2 star",
+        "count": 15
+      },
+      {
+        "name": "3 star",
+        "count": 30
+      },
+      {
+        "name": "4 star",
+        "count": 150
+      },
+      {
+        "name": "5 star",
+        "count": 350
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co.com/xtg3Zbw8/15.webp",
+    "title": "TeamTalk Secure",
+    "companyName": "Enterprise Comms",
+    "description": "Encrypted team messaging and video conferencing for corporate use.",
+    "size": 150,
+    "reviews": 2300,
+    "ratingAvg": 4.0,
+    "downloads": "1.1M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 150
+      },
+      {
+        "name": "2 star",
+        "count": 250
+      },
+      {
+        "name": "3 star",
+        "count": 500
+      },
+      {
+        "name": "4 star",
+        "count": 700
+      },
+      {
+        "name": "5 star",
+        "count": 700
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "https://i.ibb.co.com/2083KFMx/16.jpg",
+    "title": "RecipeGenius AI",
+    "companyName": "Culinary Tech",
+    "description": "Generate recipes based on ingredients you have at home.",
+    "size": 70,
+    "reviews": 900,
+    "ratingAvg": 4.7,
+    "downloads": "400K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 20
+      },
+      {
+        "name": "2 star",
+        "count": 40
+      },
+      {
+        "name": "3 star",
+        "count": 90
+      },
+      {
+        "name": "4 star",
+        "count": 250
+      },
+      {
+        "name": "5 star",
+        "count": 500
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "https://i.ibb.co.com/chzx2r3j/17.png",
+    "title": "E-Reader Cloud",
+    "companyName": "Digital Library Co.",
+    "description": "Access thousands of e-books and personalize your reading experience.",
+    "size": 105,
+    "reviews": 1600,
+    "ratingAvg": 4.4,
+    "downloads": "650K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 70
+      },
+      {
+        "name": "2 star",
+        "count": 100
+      },
+      {
+        "name": "3 star",
+        "count": 250
+      },
+      {
+        "name": "4 star",
+        "count": 500
+      },
+      {
+        "name": "5 star",
+        "count": 680
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "https://i.ibb.co.com/whdsF3mv/18.png",
+    "title": "PixelPainter Pro",
+    "companyName": "Digital Canvas",
+    "description": "Advanced digital painting and drawing tools for professional artists.",
+    "size": 220,
+    "reviews": 880,
+    "ratingAvg": 4.5,
+    "downloads": "300K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 40
+      },
+      {
+        "name": "2 star",
+        "count": 60
+      },
+      {
+        "name": "3 star",
+        "count": 140
+      },
+      {
+        "name": "4 star",
+        "count": 300
+      },
+      {
+        "name": "5 star",
+        "count": 340
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "https://i.ibb.co.com/BVXsTCb6/19.png",
+    "title": "SafeGuard VPN",
+    "companyName": "Cyber Secure Inc.",
+    "description": "Fast and secure VPN service to protect your online privacy and data.",
+    "size": 60,
+    "reviews": 2800,
+    "ratingAvg": 4.1,
+    "downloads": "1.5M",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 200
+      },
+      {
+        "name": "2 star",
+        "count": 300
+      },
+      {
+        "name": "3 star",
+        "count": 600
+      },
+      {
+        "name": "4 star",
+        "count": 800
+      },
+      {
+        "name": "5 star",
+        "count": 900
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://i.ibb.co.com/mFF6ssyT/20.png",
+    "title": "FlashFeed News",
+    "companyName": "InfoStream Media",
+    "description": "Real-time news updates and personalized article recommendations.",
+    "size": 55,
+    "reviews": 1300,
+    "ratingAvg": 4.3,
+    "downloads": "580K",
+    "ratings": [
+      {
+        "name": "1 star",
+        "count": 60
+      },
+      {
+        "name": "2 star",
+        "count": 120
+      },
+      {
+        "name": "3 star",
+        "count": 280
+      },
+      {
+        "name": "4 star",
+        "count": 400
+      },
+      {
+        "name": "5 star",
+        "count": 440
+      }
+    ]
+  }
+]
