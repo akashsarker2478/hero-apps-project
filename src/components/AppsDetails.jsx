@@ -1,9 +1,11 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { useParams } from "react-router";
 import useAppsData from "./Hook/useAppsData";
 import download from "../assets/download.png";
 import star from "../assets/star.png";
 import like from "../assets/like.png";
+import { toast, ToastContainer } from "react-toastify";
+import "react-toastify/dist/ReactToastify.css";
 import {
   Bar,
   BarChart,
@@ -18,6 +20,12 @@ const AppsDetails = () => {
   const { id } = useParams();
   const { products, loading} = useAppsData();
   const product = products.find((app) => String(app.id) === id);
+  const [isInstalled,setIsInstalled] = useState(false)
+    useEffect(() => {
+    const storedAppList = JSON.parse(localStorage.getItem("appList")) || [];
+    const alreadyInstalled = storedAppList.some((a) => a.id === product?.id);
+    setIsInstalled(alreadyInstalled);
+  }, [product]);
   if (loading) return <p>loading...</p>;
   console.log(product);
   const {
@@ -31,6 +39,18 @@ const AppsDetails = () => {
     ratings,
     description,
   } = product;
+  const handleInstallBtn =()=>{
+    const storedAppList = JSON.parse(localStorage.getItem('appList'))
+    let updatedApps = [];
+    if(storedAppList){
+         updatedApps = [...storedAppList,product]
+    }else{
+        updatedApps.push(product)
+    }
+    localStorage.setItem('appList',JSON.stringify(updatedApps))
+    setIsInstalled(true);
+    toast.success(`${title} Installed successfully!`);
+  }
 
   return (
     <div>
@@ -70,8 +90,12 @@ const AppsDetails = () => {
               </div>
             </div>
             <div>
-              <button className="btn font-bold text-white bg-[#00D390] my-2">
-                Install Now <span>({size} MB)</span>
+              <button 
+              disabled={isInstalled}
+              onClick={handleInstallBtn}
+               className="btn font-bold text-white bg-[#00D390] my-2">
+                {isInstalled ? "Installed" : "Install Now"}
+                {!isInstalled && <span>({size} MB)</span>}
               </button>
             </div>
           </div>
@@ -109,6 +133,7 @@ const AppsDetails = () => {
           <p>{description}</p>
         </div>
       </div>
+      <ToastContainer position="top-center" autoClose={2000}></ToastContainer>
     </div>
   );
 };
