@@ -10,7 +10,7 @@ import ProductCard from './ProductCard';
 const Home = () => {
     const {products,loading,error} = useAppsData()
     // console.log(data)
-    const homeProducts = products.slice(0,9)
+    const homeProducts = products.slice(0,8)
     console.log(products)
     return (
         <div >
@@ -52,7 +52,7 @@ const Home = () => {
                     <h3 className='font-bold text-3xl'>Trending Apps</h3>
                     <p><small>Explore All Trending Apps on the Market developed by us</small></p>
                 </div>
-           <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-3 my-5'>
+           <div className='grid md:grid-cols-2 lg:grid-cols-4 gap-3 my-5'>
              {
                homeProducts.map(product=><ProductCard key={product.id} product={product}></ProductCard>)
             }

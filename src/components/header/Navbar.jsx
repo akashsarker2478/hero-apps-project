@@ -40,7 +40,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn bg-gradient-to-b from-[#632ee3] to-[#9f62f2] rounded-xl text-white font-semibold mr-2"><img src={gitLogo} alt="" /> Contribute</a>
+    <a onClick={() => window.open('https://github.com/akashsarker2478', '_blank')} className="btn bg-gradient-to-b from-[#632ee3] to-[#9f62f2] rounded-xl text-white font-semibold mr-2"><img src={gitLogo} alt="" /> Contribute</a>
   </div>
 </div>
     );

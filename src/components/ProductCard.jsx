@@ -1,13 +1,15 @@
 
 import { Download, Star } from 'lucide-react';
 import React from 'react';
+import { Link } from 'react-router';
 
 const ProductCard = ({product}) => {
-    const {title,image,downloads,ratingAvg} = product;
+    const {title,image,downloads,ratingAvg,id} = product;
     return (
+       <Link to={`/apps/${id}`}>
        <div className="card bg-base-100  shadow-sm border-1 hover:scale-105 transition ease">
-  <figure className='h-48 overflow-hidden'>
-    <img className='w-full object-cover object-top'
+  <figure className='h-48 overflow-hidden border-1'>
+    <img className='w-full  object-cover object-top'
       src={image}
       alt="Shoes" />
   </figure>
@@ -25,6 +27,7 @@ const ProductCard = ({product}) => {
     </div>
   </div>
 </div>
+       </Link>
     );
 };
 

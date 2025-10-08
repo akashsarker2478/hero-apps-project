@@ -4,32 +4,17 @@
     "image": "https://i.ibb.co.com/Kj4YLTzr/1.jpg",
     "title": "TaskFlow Pro",
     "companyName": "Innovatech Solutions",
-    "description": "Seamless task management and team collaboration. Boost your productivity with smart features.",
+    "description": "TaskFlow Pro is a powerful productivity platform built to help individuals and teams manage work with clarity and speed. Organize projects with customizable boards, assign tasks to teammates, and set deadlines while tracking progress through visual timelines and analytics. Smart notifications and automated reminders keep everyone aligned without constant check-ins, while file attachments, comments, and integrations streamline collaboration. The app includes time tracking, priority labels, and progress reports to identify bottlenecks and boost efficiency. Secure cloud sync keeps your data accessible across devices, and role-based permissions ensure proper access control. Whether you’re coordinating a small team or running complex projects, TaskFlow Pro simplifies planning and delivers measurable productivity gains.",
     "size": 52,
     "reviews": 1250,
     "ratingAvg": 4.5,
     "downloads": "550K",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 50
-      },
-      {
-        "name": "2 star",
-        "count": 100
-      },
-      {
-        "name": "3 star",
-        "count": 200
-      },
-      {
-        "name": "4 star",
-        "count": 400
-      },
-      {
-        "name": "5 star",
-        "count": 500
-      }
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 500 }
     ]
   },
   {
@@ -37,32 +22,17 @@
     "image": "https://i.ibb.co.com/PZT17yRZ/2.webp",
     "title": "MoneyWise Budget",
     "companyName": "FinCorp Dynamics",
-    "description": "Track expenses, set budgets, and achieve financial freedom with ease.",
+    "description": "MoneyWise Budget is a smart personal finance app designed to help you control spending, save more, and plan for the future. Link accounts securely, categorize transactions automatically, and visualize cash flow with intuitive charts and reports. Create tailored budgets, set savings goals, and receive timely bill reminders that prevent late fees. The app provides actionable insights and tips based on your habits, helping you reduce unnecessary expenses and prioritize financial goals. Offline mode and secure cloud backup keep your data safe, while customizable categories and tags let you personalize tracking to suit your lifestyle. Whether you’re building an emergency fund or planning a major purchase, MoneyWise Budget makes financial management simple and stress-free.",
     "size": 75,
     "reviews": 980,
     "ratingAvg": 4.7,
     "downloads": "320K",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 30
-      },
-      {
-        "name": "2 star",
-        "count": 50
-      },
-      {
-        "name": "3 star",
-        "count": 100
-      },
-      {
-        "name": "4 star",
-        "count": 300
-      },
-      {
-        "name": "5 star",
-        "count": 500
-      }
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 500 }
     ]
   },
   {
@@ -70,32 +40,17 @@
     "image": "https://i.ibb.co.com/prZJbH18/3.jpg",
     "title": "Aura Photo Editor",
     "companyName": "Creative Studios",
-    "description": "Professional photo editing tools and creative filters for stunning results.",
+    "description": "Aura Photo Editor brings professional-level photo editing to your fingertips with a clean, approachable interface. Use advanced tools like exposure and color correction, selective adjustments, and layer-based edits to refine images with precision. AI-powered features such as background removal and portrait retouching speed up workflows, while a library of presets and creative filters helps you achieve a consistent aesthetic quickly. High-resolution export, crop and transform tools, and non-destructive editing preserve image quality for social media or print. Built-in sharing and cloud sync make it easy to collaborate or access your work across devices. Designed for hobbyists and professionals alike, Aura balances powerful functionality with simple controls so you can create stunning images fast.",
     "size": 110,
     "reviews": 2100,
     "ratingAvg": 4.2,
     "downloads": "950K",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 80
-      },
-      {
-        "name": "2 star",
-        "count": 150
-      },
-      {
-        "name": "3 star",
-        "count": 350
-      },
-      {
-        "name": "4 star",
-        "count": 700
-      },
-      {
-        "name": "5 star",
-        "count": 820
-      }
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 820 }
     ]
   },
   {
@@ -103,32 +58,17 @@
     "image": "https://i.ibb.co.com/K8XGK5K/4.png",
     "title": "FitTrack Daily",
     "companyName": "Healthify Tech",
-    "description": "Personalized workout plans and nutrition tracking for a healthier lifestyle.",
+    "description": "FitTrack Daily is a comprehensive fitness and wellness app that helps you build healthy habits and monitor progress over time. Create personalized workout plans tailored to your goals—weight loss, strength, or mobility—and follow guided video tutorials for proper form. Log meals, track calories, and monitor macronutrients to support nutritional goals, while heart rate and step tracking give a fuller picture of daily activity. The app syncs with wearable devices and offers sleep and hydration tracking for rounded health metrics. Motivational reminders, community challenges, and goal-based milestones keep you engaged. Whether you’re a beginner or experienced athlete, FitTrack Daily delivers structured guidance and data-driven insights to help you get fitter, stronger, and healthier.",
     "size": 65,
     "reviews": 1500,
     "ratingAvg": 4.8,
     "downloads": "680K",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 20
-      },
-      {
-        "name": "2 star",
-        "count": 40
-      },
-      {
-        "name": "3 star",
-        "count": 80
-      },
-      {
-        "name": "4 star",
-        "count": 450
-      },
-      {
-        "name": "5 star",
-        "count": 910
-      }
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 80 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 910 }
     ]
   },
   {
@@ -136,32 +76,17 @@
     "image": "https://i.ibb.co.com/Wp2Rd21c/5.jpg",
     "title": "LangMaster AI",
     "companyName": "Global Edutech",
-    "description": "Learn new languages with AI-powered lessons and interactive exercises.",
+    "description": "LangMaster AI combines adaptive learning and speech recognition to make language study faster and more natural. Interactive lessons cover reading, listening, speaking, and writing, while AI-driven pronunciation feedback helps refine accent and fluency. Personalized lesson paths adapt to your performance, focusing on vocabulary or grammar where you need the most practice. Daily micro-lessons, immersive dialogues, and gamified exercises keep motivation high, and offline mode lets you study without internet access. Practice conversations with AI tutors and track progress with intuitive reports. Ideal for travelers, students, and professionals, LangMaster AI offers a flexible, engaging way to gain confidence and real-world communication skills in a new language.",
     "size": 95,
     "reviews": 850,
     "ratingAvg": 4.6,
     "downloads": "410K",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 25
-      },
-      {
-        "name": "2 star",
-        "count": 55
-      },
-      {
-        "name": "3 star",
-        "count": 120
-      },
-      {
-        "name": "4 star",
-        "count": 350
-      },
-      {
-        "name": "5 star",
-        "count": 300
-      }
+      { "name": "1 star", "count": 25 },
+      { "name": "2 star", "count": 55 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 300 }
     ]
   },
   {
@@ -169,32 +94,17 @@
     "image": "https://i.ibb.co.com/8FwJYmX/6.jpg",
     "title": "ConnectSphere",
     "companyName": "Social Nexus",
-    "description": "The new way to connect with friends and share your life moments privately.",
+    "description": "ConnectSphere is a privacy-first social networking app that focuses on authentic connections and secure communication. Share updates, photos, and stories with selective audiences using granular privacy controls and end-to-end encryption for messages and media. Create communities around interests, host events, and collaborate in small-group spaces without algorithmic noise. The app offers customizable feeds, robust moderation tools for group admins, and ephemeral content for more spontaneous sharing. Built-in voice and video calling, threaded conversations, and media galleries help preserve meaningful interactions. ConnectSphere is ideal for users who value both social engagement and data privacy, offering a calmer, more intentional alternative to mainstream networks.",
     "size": 88,
     "reviews": 3200,
     "ratingAvg": 3.9,
     "downloads": "1.2M",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 200
-      },
-      {
-        "name": "2 star",
-        "count": 350
-      },
-      {
-        "name": "3 star",
-        "count": 700
-      },
-      {
-        "name": "4 star",
-        "count": 900
-      },
-      {
-        "name": "5 star",
-        "count": 1050
-      }
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1050 }
     ]
   },
   {
@@ -202,32 +112,17 @@
     "image": "https://i.ibb.co.com/fKbntnn/7.png",
     "title": "SkyCast Weather",
     "companyName": "Predictive Systems",
-    "description": "Accurate hourly and 7-day weather forecasts with beautiful animations.",
+    "description": "SkyCast Weather provides accurate, visually-rich forecasts to help you plan with confidence. Access hourly, daily, and seven-day outlooks, along with interactive radar and precipitation maps to monitor storms and changing conditions in real time. The app displays temperature, humidity, wind speed, UV index, and detailed sunrise/sunset times with beautiful animated backgrounds that reflect current weather. Custom alerts warn you of severe events, and widgets keep essential forecasts on your home screen. Ideal for commuters, outdoor planners, and travelers, SkyCast combines modern design with reliable meteorological data so you can make smarter decisions and stay safe no matter the forecast.",
     "size": 45,
     "reviews": 1100,
     "ratingAvg": 4.4,
     "downloads": "480K",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 40
-      },
-      {
-        "name": "2 star",
-        "count": 80
-      },
-      {
-        "name": "3 star",
-        "count": 220
-      },
-      {
-        "name": "4 star",
-        "count": 360
-      },
-      {
-        "name": "5 star",
-        "count": 400
-      }
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 220 },
+      { "name": "4 star", "count": 360 },
+      { "name": "5 star", "count": 400 }
     ]
   },
   {
@@ -235,32 +130,17 @@
     "image": "https://i.ibb.co.com/bj4TVv8y/8.jpg",
     "title": "Galaxy Quest 3D",
     "companyName": "GameCraft Studios",
-    "description": "An immersive space adventure game with stunning 3D graphics and storyline.",
+    "description": "Galaxy Quest 3D is an immersive space exploration and combat game featuring cinematic 3D visuals, deep customization, and a branching storyline. Pilot and upgrade your starship with advanced weaponry, shields, and exploration gear while navigating procedurally generated systems rich with resources and secrets. Engage in tactical combat with hostile fleets, trade with alien factions, and undertake missions that influence the galaxy’s political landscape. The game blends strategy, RPG progression, and real-time action, offering single-player campaigns and competitive leaderboards. Intuitive controls, stunning particle effects, and optimized performance deliver a console-quality experience on mobile devices for fans of sci-fi adventures and ambitious space simulators.",
     "size": 350,
     "reviews": 4500,
     "ratingAvg": 4.1,
     "downloads": "1.8M",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 350
-      },
-      {
-        "name": "2 star",
-        "count": 500
-      },
-      {
-        "name": "3 star",
-        "count": 900
-      },
-      {
-        "name": "4 star",
-        "count": 1200
-      },
-      {
-        "name": "5 star",
-        "count": 1550
-      }
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 1550 }
     ]
   },
   {
@@ -268,32 +148,17 @@
     "image": "https://i.ibb.co.com/zH2rxVvw/9.jpg",
     "title": "BeatFlow Player",
     "companyName": "AudioVerse Inc.",
-    "description": "High-fidelity music player with customizable EQ and offline playback support.",
+    "description": "BeatFlow Player delivers high-fidelity audio playback with advanced equalizer controls and robust offline support. Customize your listening experience with multiple EQ presets or create your own settings to suit genres and moods, and enjoy gapless playback, crossfade, and playlist management. The app supports a wide range of audio formats, high-resolution files, and smart caching for offline listening. Navigate your library with intuitive browsing, create custom playlists, and import tracks easily from device storage. BeatFlow also integrates with lock-screen controls and headphone actions for seamless use on the go. Designed for audiophiles and casual listeners alike, BeatFlow ensures your music always sounds clear, balanced, and powerful.",
     "size": 60,
     "reviews": 750,
     "ratingAvg": 4.9,
     "downloads": "250K",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 10
-      },
-      {
-        "name": "2 star",
-        "count": 20
-      },
-      {
-        "name": "3 star",
-        "count": 40
-      },
-      {
-        "name": "4 star",
-        "count": 200
-      },
-      {
-        "name": "5 star",
-        "count": 480
-      }
+      { "name": "1 star", "count": 10 },
+      { "name": "2 star", "count": 20 },
+      { "name": "3 star", "count": 40 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 480 }
     ]
   },
   {
@@ -301,32 +166,17 @@
     "image": "https://i.ibb.co.com/99qZ41Nd/10.jpg",
     "title": "Wanderlust Guide",
     "companyName": "Explore Global",
-    "description": "The ultimate travel companion with offline maps and local recommendations.",
+    "description": "Wanderlust Guide is a comprehensive travel app that helps you discover destinations, plan itineraries, and navigate confidently offline. Access detailed maps, curated recommendations for dining and attractions, and suggested day-by-day plans crafted by local experts. Use offline maps and downloadable guides to avoid roaming charges, and track expenses and bookings in one place for seamless trip management. The app includes real traveler reviews, cultural tips, and safety advice so you can explore new places with confidence. Bookmark favorite spots, share itineraries with travel companions, and receive personalized suggestions based on your interests. Whether you’re a weekend explorer or a long-term traveler, Wanderlust Guide makes every trip smarter and more enjoyable.",
     "size": 180,
     "reviews": 1400,
     "ratingAvg": 4.3,
     "downloads": "590K",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 60
-      },
-      {
-        "name": "2 star",
-        "count": 110
-      },
-      {
-        "name": "3 star",
-        "count": 250
-      },
-      {
-        "name": "4 star",
-        "count": 450
-      },
-      {
-        "name": "5 star",
-        "count": 530
-      }
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 530 }
     ]
   },
   {
@@ -334,32 +184,17 @@
     "image": "https://i.ibb.co.com/x8fYqXDd/11.webp",
     "title": "ZenNote Simple",
     "companyName": "Minimalist Apps",
-    "description": "A clean, distraction-free note-taking experience for quick ideas.",
+    "description": "ZenNote Simple offers a distraction-free note-taking experience focused on speed, clarity, and usability. Capture ideas, to-dos, and quick notes with a minimal interface that removes clutter and friction. Use simple organization tools like tags, notebooks, and search to find content instantly, and enable rich text formatting for better structure when needed. Offline access and secure cloud sync keep your notes available across devices, while local backups offer added safety. Lightweight and fast, ZenNote supports quick entry widgets and dark mode for comfortable use in any environment. Whether you’re jotting down a thought or planning a project, ZenNote keeps your ideas organized without overwhelming you.",
     "size": 30,
     "reviews": 600,
     "ratingAvg": 4.7,
     "downloads": "210K",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 15
-      },
-      {
-        "name": "2 star",
-        "count": 25
-      },
-      {
-        "name": "3 star",
-        "count": 70
-      },
-      {
-        "name": "4 star",
-        "count": 200
-      },
-      {
-        "name": "5 star",
-        "count": 290
-      }
+      { "name": "1 star", "count": 15 },
+      { "name": "2 star", "count": 25 },
+      { "name": "3 star", "count": 70 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 290 }
     ]
   },
   {
@@ -367,32 +202,17 @@
     "image": "https://i.ibb.co.com/HDh3fqMz/12.png",
     "title": "ShopSmart Deals",
     "companyName": "E-Commerce Integrators",
-    "description": "Compare prices, find discounts, and track sales from your favorite stores.",
+    "description": "ShopSmart Deals helps you find the best prices, discounts, and coupons across multiple stores so you can save time and money while shopping. Compare products side-by-side, set price alerts for items you want, and receive notifications when deals go live. Use built-in coupon aggregation and cashback options to maximize savings, and sort results by rating, price, or shipping terms. The app supports wishlist syncing and purchase history so you can track past finds and plan future buys. With user reviews, curated deal lists, and personalized recommendations, ShopSmart makes bargain hunting efficient and reliable whether you’re shopping for everyday essentials or special purchases.",
     "size": 85,
     "reviews": 1700,
     "ratingAvg": 4.2,
     "downloads": "760K",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 90
-      },
-      {
-        "name": "2 star",
-        "count": 130
-      },
-      {
-        "name": "3 star",
-        "count": 300
-      },
-      {
-        "name": "4 star",
-        "count": 550
-      },
-      {
-        "name": "5 star",
-        "count": 630
-      }
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 550 },
+      { "name": "5 star", "count": 630 }
     ]
   },
   {
@@ -400,32 +220,17 @@
     "image": "https://i.ibb.co.com/SDxVCbzC/13.jpg",
     "title": "CodeMentor Practice",
     "companyName": "DevSkills Academy",
-    "description": "Interactive coding challenges and programming tutorials for all skill levels.",
+    "description": "CodeMentor Practice is an interactive learning app designed to boost coding skills through bite-sized challenges, guided tutorials, and real-world projects. Choose from multiple languages and difficulty levels, and progress through structured tracks that blend theory with hands-on practice. Instant feedback and test cases let you validate solutions quickly, while hints and curated explanations help you learn from mistakes. Track your progress, earn achievements, and build a portfolio of solved challenges to showcase to employers. Offline practice mode and code snippets make learning flexible, and community leaderboards foster friendly competition. Ideal for beginners and intermediate developers, CodeMentor Practice accelerates learning with practical, focused exercises.",
     "size": 120,
     "reviews": 1050,
     "ratingAvg": 4.6,
     "downloads": "390K",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 30
-      },
-      {
-        "name": "2 star",
-        "count": 60
-      },
-      {
-        "name": "3 star",
-        "count": 150
-      },
-      {
-        "name": "4 star",
-        "count": 400
-      },
-      {
-        "name": "5 star",
-        "count": 410
-      }
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 410 }
     ]
   },
   {
@@ -433,32 +238,17 @@
     "image": "https://i.ibb.co.com/NgsgDMm5/14.webp",
     "title": "MedReminder Pro",
     "companyName": "PillTrack Health",
-    "description": "Never miss a dose again. Reliable medication reminders and health logs.",
+    "description": "MedReminder Pro is a reliable medication management app built to help users take prescriptions on time and manage health routines with confidence. Schedule dose reminders, log medication intake, and set refill alerts to avoid interruptions in treatment. Record symptoms and vitals alongside medication history to share with caregivers or doctors. The app supports multi-user profiles for family care, secure data backups, and encrypted storage to protect sensitive information. Customizable reminder tones, snooze options, and adherence reports help improve consistency. Whether managing chronic conditions or short-term prescriptions, MedReminder Pro simplifies medication routines and provides peace of mind for patients and caregivers alike.",
     "size": 40,
     "reviews": 550,
     "ratingAvg": 4.9,
     "downloads": "180K",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 5
-      },
-      {
-        "name": "2 star",
-        "count": 15
-      },
-      {
-        "name": "3 star",
-        "count": 30
-      },
-      {
-        "name": "4 star",
-        "count": 150
-      },
-      {
-        "name": "5 star",
-        "count": 350
-      }
+      { "name": "1 star", "count": 5 },
+      { "name": "2 star", "count": 15 },
+      { "name": "3 star", "count": 30 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 350 }
     ]
   },
   {
@@ -466,32 +256,17 @@
     "image": "https://i.ibb.co.com/xtg3Zbw8/15.webp",
     "title": "TeamTalk Secure",
     "companyName": "Enterprise Comms",
-    "description": "Encrypted team messaging and video conferencing for corporate use.",
+    "description": "TeamTalk Secure is an enterprise-grade communication suite designed for secure collaboration and efficient remote work. Encrypted messaging, secure file sharing, and HD video conferencing keep conversations private while delivering high-quality interactions. Teams can create channels, assign tasks, and integrate with productivity tools to centralize workflows. Admin controls and audit logs help maintain compliance, while single sign-on and role-based permissions simplify access management. The app also includes screen sharing, meeting recording, and searchable chat history to streamline teamwork. Scalable for organizations of any size, TeamTalk Secure balances robust security with intuitive features so teams can collaborate confidently and productively.",
     "size": 150,
     "reviews": 2300,
     "ratingAvg": 4.0,
     "downloads": "1.1M",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 150
-      },
-      {
-        "name": "2 star",
-        "count": 250
-      },
-      {
-        "name": "3 star",
-        "count": 500
-      },
-      {
-        "name": "4 star",
-        "count": 700
-      },
-      {
-        "name": "5 star",
-        "count": 700
-      }
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 500 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 700 }
     ]
   },
   {
@@ -499,32 +274,17 @@
     "image": "https://i.ibb.co.com/2083KFMx/16.jpg",
     "title": "RecipeGenius AI",
     "companyName": "Culinary Tech",
-    "description": "Generate recipes based on ingredients you have at home.",
+    "description": "RecipeGenius AI makes cooking easier by generating delicious recipes based on the ingredients you already have. Enter what’s in your pantry and receive step-by-step instructions tailored to your skill level and dietary preferences. The app suggests substitutions, portion scaling, and estimated prep times to streamline meal planning. Smart filters let you search by cuisine, calories, or cooking method, while grocery list export and meal scheduling simplify weekly planning. AI-driven flavor pairing and tips help you experiment confidently, and saved recipes let you build a personal cookbook. Ideal for busy families, home cooks, and foodies, RecipeGenius AI helps turn simple ingredients into memorable meals.",
     "size": 70,
     "reviews": 900,
     "ratingAvg": 4.7,
     "downloads": "400K",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 20
-      },
-      {
-        "name": "2 star",
-        "count": 40
-      },
-      {
-        "name": "3 star",
-        "count": 90
-      },
-      {
-        "name": "4 star",
-        "count": 250
-      },
-      {
-        "name": "5 star",
-        "count": 500
-      }
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 90 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 500 }
     ]
   },
   {
@@ -532,32 +292,17 @@
     "image": "https://i.ibb.co.com/chzx2r3j/17.png",
     "title": "E-Reader Cloud",
     "companyName": "Digital Library Co.",
-    "description": "Access thousands of e-books and personalize your reading experience.",
+    "description": "E-Reader Cloud gives you instant access to thousands of e-books with a personalized reading experience. Customize fonts, themes, and page layouts for comfortable long-form reading, and sync your library and bookmarks across devices. Discover curated lists, editor picks, and social reading clubs to explore new titles and discuss favorites with others. Offline downloads let you read without connectivity, while built-in notes and highlights simplify study and reference. The app supports multiple file formats and offers recommendations based on your reading habits. Whether you’re a casual reader or a student, E-Reader Cloud combines convenience and discovery to help you read more and enjoy every book.",
     "size": 105,
     "reviews": 1600,
     "ratingAvg": 4.4,
     "downloads": "650K",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 70
-      },
-      {
-        "name": "2 star",
-        "count": 100
-      },
-      {
-        "name": "3 star",
-        "count": 250
-      },
-      {
-        "name": "4 star",
-        "count": 500
-      },
-      {
-        "name": "5 star",
-        "count": 680
-      }
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 680 }
     ]
   },
   {
@@ -565,32 +310,17 @@
     "image": "https://i.ibb.co.com/whdsF3mv/18.png",
     "title": "PixelPainter Pro",
     "companyName": "Digital Canvas",
-    "description": "Advanced digital painting and drawing tools for professional artists.",
+    "description": "PixelPainter Pro is a feature-rich digital painting app tailored for artists and illustrators who want rich brush control and precise layering. Access an extensive brush library, custom brush creation, pressure sensitivity support, and advanced blending modes for lifelike strokes. Layer management, masks, and non-destructive edits provide professional workflows, while canvas rotation, zoom, and high-resolution export enable detailed artwork. Collaboration features and cloud backup let you preserve and share progress across devices. With performance optimizations and an intuitive UI, PixelPainter Pro bridges the gap between desktop and mobile art creation, empowering both hobbyists and professionals to produce polished illustrations anywhere.",
     "size": 220,
     "reviews": 880,
     "ratingAvg": 4.5,
     "downloads": "300K",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 40
-      },
-      {
-        "name": "2 star",
-        "count": 60
-      },
-      {
-        "name": "3 star",
-        "count": 140
-      },
-      {
-        "name": "4 star",
-        "count": 300
-      },
-      {
-        "name": "5 star",
-        "count": 340
-      }
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 340 }
     ]
   },
   {
@@ -598,32 +328,17 @@
     "image": "https://i.ibb.co.com/BVXsTCb6/19.png",
     "title": "SafeGuard VPN",
     "companyName": "Cyber Secure Inc.",
-    "description": "Fast and secure VPN service to protect your online privacy and data.",
+    "description": "SafeGuard VPN delivers fast, private, and easy-to-use VPN protection to secure your online activity and protect personal data. Connect to a global network of optimized servers to access geo-restricted content and browse with improved privacy while hiding your IP address. The app uses industry-standard encryption and a strict no-logs policy, plus kill-switch protection to prevent accidental data leaks. Simple one-tap connections, automatic reconnection, and split tunneling provide flexibility across apps and networks. Whether you’re on public Wi-Fi, traveling, or securing sensitive communications, SafeGuard VPN provides reliable performance and privacy features to keep your browsing safe and seamless.",
     "size": 60,
     "reviews": 2800,
     "ratingAvg": 4.1,
     "downloads": "1.5M",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 200
-      },
-      {
-        "name": "2 star",
-        "count": 300
-      },
-      {
-        "name": "3 star",
-        "count": 600
-      },
-      {
-        "name": "4 star",
-        "count": 800
-      },
-      {
-        "name": "5 star",
-        "count": 900
-      }
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 900 }
     ]
   },
   {
@@ -631,32 +346,17 @@
     "image": "https://i.ibb.co.com/mFF6ssyT/20.png",
     "title": "FlashFeed News",
     "companyName": "InfoStream Media",
-    "description": "Real-time news updates and personalized article recommendations.",
+    "description": "FlashFeed News offers personalized, real-time news coverage tailored to your interests with an easy-to-scan interface. Customize topics, follow trusted sources, and receive push alerts for breaking stories so you never miss important updates. Use offline reading mode to save articles for later, and enjoy curated summaries that give you the essence of long-form reporting in a few minutes. The app includes fact-check indicators, local news feeds, and multimedia support for articles with video and audio. Discover new voices through editor collections and recommended reads, and save or share stories across platforms. FlashFeed keeps you informed efficiently and responsibly in a fast-moving news landscape.",
     "size": 55,
     "reviews": 1300,
     "ratingAvg": 4.3,
     "downloads": "580K",
     "ratings": [
-      {
-        "name": "1 star",
-        "count": 60
-      },
-      {
-        "name": "2 star",
-        "count": 120
-      },
-      {
-        "name": "3 star",
-        "count": 280
-      },
-      {
-        "name": "4 star",
-        "count": 400
-      },
-      {
-        "name": "5 star",
-        "count": 440
-      }
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 280 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 440 }
     ]
   }
 ]
