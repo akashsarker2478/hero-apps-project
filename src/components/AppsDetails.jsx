@@ -15,6 +15,8 @@ import {
   XAxis,
   YAxis,
 } from "recharts";
+import LoadingSpinner from "./LoadingSpinner";
+import DetailsError from "./error/DetailsError";
 
 const AppsDetails = () => {
   const { id } = useParams();
@@ -26,8 +28,12 @@ const AppsDetails = () => {
     const alreadyInstalled = storedAppList.some((a) => a.id === product?.id);
     setIsInstalled(alreadyInstalled);
   }, [product]);
-  if (loading) return <p>loading...</p>;
-  console.log(product);
+  if (loading) return <LoadingSpinner></LoadingSpinner>;
+  if(!product){
+      return <DetailsError></DetailsError>
+  }
+  
+//   console.log(product);
   const {
     image,
     title,
@@ -121,7 +127,7 @@ const AppsDetails = () => {
                 <Tooltip />
                 <Bar
                   dataKey="count"
-                  fill="#FF8811"
+                  fill="#00D390"
                   barSize={30}
                   name="Rating Count"
                 />

@@ -5,6 +5,7 @@ import Home from "../Home";
 import Apps from "../Apps";
 import Installation from "../Installation";
 import AppsDetails from "../AppsDetails";
+import RouteLoading from "../routeLoading/RouteLoading";
 
 export const router = createBrowserRouter([
   {
@@ -15,19 +16,35 @@ export const router = createBrowserRouter([
     children:[
         {   
             index:true,
-            element: <Home></Home>
+            element: (
+              <RouteLoading>
+                <Home></Home>
+              </RouteLoading>
+            ),
         },
         {
             path:'/apps',
-            element:<Apps></Apps>
+            element:(
+              <RouteLoading>
+                <Apps></Apps>
+              </RouteLoading>
+            )
         },
         {
             path:'/installation',
-            element:<Installation></Installation>
+            element:(
+              <RouteLoading>
+                <Installation></Installation>
+              </RouteLoading>
+            )
         },
         {
           path:'/apps/:id',
-          element: <AppsDetails></AppsDetails>
+          element: (
+            <RouteLoading>
+              <AppsDetails></AppsDetails>
+            </RouteLoading>
+          )
         }
     ]
   },

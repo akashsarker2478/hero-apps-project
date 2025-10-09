@@ -4,6 +4,19 @@ import star from '../assets/star.png'
 import "react-toastify/dist/ReactToastify.css";
 import { toast, ToastContainer } from 'react-toastify';
 
+const convertDownloadToNumber = (downloadStr)=>{
+    if(!downloadStr) {
+        return 0;
+    }
+    const convertStr = String(downloadStr).toUpperCase().trim()
+    if(convertStr .endsWith('K')){
+        return parseFloat(convertStr)*1000;
+    } else if(convertStr .endsWith('M')){
+        return parseFloat(convertStr)*1000000;
+    }else{
+        return parseFloat(convertStr)
+    }
+}
 const Installation = () => {
     const [sortOrder,SetSortOrder] = useState('none')
     const [install,setInstall] = useState([])
@@ -16,9 +29,9 @@ const Installation = () => {
 
     const sortedItem = () =>{
         if(sortOrder === 'asc'){
-            return [...install].sort((a,b)=> a.size - b.size);
+            return [...install].sort((a,b)=> convertDownloadToNumber(a.downloads) - convertDownloadToNumber(b.downloads));
         }else if(sortOrder === 'desc'){
-            return [...install].sort((a,b)=>b.size - a.size);
+            return [...install].sort((a,b)=>convertDownloadToNumber(b.downloads) - convertDownloadToNumber(a.downloads));
         }else{
             return install;
         }
@@ -42,9 +55,9 @@ const Installation = () => {
          <label>
             <select
             className='select select-bordered'
-            value = {SetSortOrder}
+            value = {sortOrder}
             onChange={e=>SetSortOrder(e.target.value)}>
-                <option value="none">Sort by Size</option>
+                <option value="none">Sort by downloads</option>
                 <option value="asc"> Low to High</option>
                <option value="desc"> High to Low</option>
             </select>
@@ -72,7 +85,7 @@ const Installation = () => {
                 </div>
             ))}
         </div>
-        <ToastContainer position="top-center" autoClose={2000}></ToastContainer>
+        <ToastContainer position="top-center" autoClose={2000}></ToastContainer> 
         </div>
     );
 };

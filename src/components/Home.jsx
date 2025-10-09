@@ -1,22 +1,23 @@
 import React from 'react';
 import { Link} from 'react-router';
-// import Products from './ProductCard';
 import playStore from '../assets/googlePlay.png'
 import appStore from '../assets/appStore.png'
 import hero from '../assets/hero.png'
 import useAppsData from './Hook/useAppsData';
 import ProductCard from './ProductCard';
+import LoadingSpinner from './LoadingSpinner';
 
 const Home = () => {
-    const {products,loading,error} = useAppsData()
-    // console.log(data)
+    const {products,loading} = useAppsData()
     const homeProducts = products.slice(0,8)
-    console.log(products)
+     if (loading) {
+        return <LoadingSpinner />;
+    }
     return (
         <div >
             <div>
                 <h1 className='text-4xl text-center font-bold'>We Build <br /> <span className='bg-gradient-to-b from-[#632ee3] to-[#9f62f2] bg-clip-text text-transparent'>Productive</span> Apps</h1>
-                <p className='m-3 text-center text-[#627382]'>At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
+                <p className='m-3 text-center text-[#627382]'>NextGen Apps, we craft innovative apps designed to make everyday life simpler, smarter, and more exciting.Our goal is to turn your ideas into digital experiences that truly make an impact.</p>
             </div>
 
                 <div className='flex justify-center gap-5 m-5'>

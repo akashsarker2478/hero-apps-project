@@ -31,7 +31,7 @@ const Navbar = () => {
     </div>
     <Link to={'/'} className='flex gap-2 items-center'>
         <img className='w-[30px]' src={logo} alt="" />
-        <h2 className='bg-gradient-to-b from-[#632ee3] to-[#9f62f2] bg-clip-text text-transparent text-xl font-bold'>HERO.IO</h2>
+        <h2 className='bg-gradient-to-b from-[#632ee3] to-[#9f62f2] bg-clip-text text-transparent md:text-xl font-semibold md:font-bold'>NextGen Apps</h2>
     </Link>
   </div>
   <div className="navbar-center hidden lg:flex">
