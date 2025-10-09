@@ -6,7 +6,7 @@ const Error = () => {
     return (
         <div>
            <div className='flex justify-center items-center'>
-             <img src={errorPng} alt="" />
+             <img className='w-[250px] mt-30' src={errorPng} alt="" />
            </div>
            <div className='text-center'>
             <h1 className='font-bold text-4xl'>Oops, page not found!</h1>
