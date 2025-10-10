@@ -53,7 +53,7 @@ const Footer = () => {
 </div>
 <div className="text-center p-4 border-t border-gray-300 font-bold text-white
 ">
-                <p><i>© {new Date().getFullYear()} NextGen Apps. All rights reserved.</i></p>
+                <p><i>© 2025 NextGen Apps. All rights reserved.</i></p>
             </div>
 </div>
     );
