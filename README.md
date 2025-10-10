@@ -18,31 +18,29 @@ Built with **React**, **Tailwind CSS**, and **DaisyUI**, this project demonstrat
 
 ##  Project Structure
 
-src/
-│
-├── assets/                         → Contains logos, icons, and images
-│
-├── components/                     → All main and shared React components
-│    ├── `Navbar.jsx`                 → Main navigation bar with active route 
-│    ├── `Footer.jsx`                 → Footer with official clickable logos
-│    ├── `Home.jsx`                   → Hero, stats, and trending apps section
-│    ├── `Apps.jsx`                   → Shows all available apps with search 
-│    ├── `AppsDetails.jsx`            → App details, charts, and install feature
-│    ├── `Installation.jsx`           → Installed apps with uninstall & sort 
-│    ├── `ProductCard.jsx`            → Individual app card component
-│    ├── `NoAppFound.jsx`             → Shown when no apps match search results
-│    ├── `LoadingSpinner.jsx`         → Spinner shown during data loading
-│    ├── `RouteLoading.jsx`           → Handles route transition loading 
-│    ├── `DetailsError.jsx`           → Error page for invalid app details
-│    └── `Error.jsx`                  → General fallback error page
-│
-├── Hook/
-│    └── `useAppsData.js`             → Custom hook for fetching and managing app data
-│
-├── router/
-│    └── `index.jsx`                  → All route configurations (Home, Apps, Installation, etc.)
-│
-└── `Root.jsx`                        → Root layout with Navbar, Footer, and Router Outlet
+## src :
+ ## assets/                         → Contains logos, icons, and images
+
+## components→ All main and shared React components
+    `Navbar.jsx` → Main navigation bar with active route 
+     `Footer.jsx` → Footer with official clickable logos
+  `Home.jsx` → Hero, stats, and trending apps section
+ `Apps.jsx`  → Shows all available apps with search 
+ `AppsDetails.jsx`→ App details, charts, and install feature
+     `Installation.jsx` → Installed apps with uninstall & sort 
+       `ProductCard.jsx`→ Individual app card component
+      `NoAppFound.jsx`    → Shown when no apps match search results
+     `LoadingSpinner.jsx` → Spinner shown during data loading
+     `RouteLoading.jsx`   → Handles route transition loading 
+     `DetailsError.jsx`   → Error page for invalid app details
+    `Error.jsx`           → General fallback error pag
+ Hook :
+     `useAppsData.js` → Custom hook for fetching and managing app data
+
+ router/
+   `index.jsx` → All route configurations (Home, Apps, Installation, etc.)
+
+ `Root.jsx` → Root layout with Navbar, Footer, and Router Outlet
 
 
 ---
@@ -113,11 +111,11 @@ src/
 ##  Routing Overview
  - Route  Page Description 
 
-| `/` | Home | Displays homepage content and trending apps |
-| `/apps` | Apps List | Shows all available apps |
-| `/apps/:id` | App Details | Displays detailed info with charts and install feature |
-| `/installation` | Installation | Shows installed apps and allows uninstall/sort |
-| `*` | Error | Shown for unknown or broken routes |
+ `/`  Home - Displays homepage content and trending apps 
+ `/apps`  Apps - List  Shows all available apps 
+ `/apps/:id` App Details - Displays detailed info with charts and install feature 
+ `/installation` Installation - Shows installed apps and allows uninstall/sort 
+ `*` - Error  Shown for unknown or broken routes 
 
 ---
 
