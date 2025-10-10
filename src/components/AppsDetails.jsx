@@ -62,7 +62,7 @@ const AppsDetails = () => {
     <div>
       <div>
         <div className="md:flex gap-5">
-          <img className="w-[350px] h-[350px] rounded-xl" src={image} alt="" />
+          <img className="w-[350px] h-[350px] rounded-xl shadow-lg" src={image} alt="" />
           <div className="flex-1">
             <h3 className="font-bold text-3xl">{title}</h3>
             <p>

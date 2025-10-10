@@ -7,7 +7,7 @@ const LoadingSpinner = () => {
             <div 
                 className="w-20 h-20 animate-spin border-blue-500"
             ><img src={logo} alt="" /></div>
-            <p className="ml-4 text-2xl font-semibold text-gray-700 animate-pulse">Loading your data</p>
+            <p className="ml-4 text-2xl font-semibold text-gray-700 animate-pulse">Loading...</p> 
         </div>
         </div>
     );

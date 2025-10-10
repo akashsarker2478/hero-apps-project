@@ -51,7 +51,7 @@ const Home = () => {
                 </div>
                 <div className='text-center p-5'>
                     <h3 className='font-bold text-3xl'>Trending Apps</h3>
-                    <p><small>Explore All Trending Apps on the Market developed by us</small></p>
+                    <p className='text-[#627382] text-[18px]'><small>Explore All Trending Apps on the Market developed by us</small></p>
                 </div>
            <div className='grid md:grid-cols-2 lg:grid-cols-4 gap-3 my-5'>
              {

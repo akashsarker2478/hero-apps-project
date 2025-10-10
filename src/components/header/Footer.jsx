@@ -7,8 +7,8 @@ import linkdin from '../../assets/linkdin1.png'
 
 const Footer = () => {
     return (
-<div className='bg-gradient-to-b from-[#632ee3] to-[#9f62f2] rounded-xl'>
-         <footer className="footer sm:footer-horizontal  text-white p-10">
+<div className='bg-gradient-to-b from-[#632ee3] to-[#9f62f2]'>
+         <div className="footer sm:footer-horizontal  text-white p-10">
   <nav>
     <h6 className="footer-title">Services</h6>
                 <a className="link link-hover">App Development</a>
@@ -50,7 +50,7 @@ const Footer = () => {
   </nav>
   
  
-</footer>
+</div>
 <div className="text-center p-4 border-t border-gray-300 font-bold text-white
 ">
                 <p><i>© {new Date().getFullYear()} NextGen Apps. All rights reserved.</i></p>

@@ -36,7 +36,7 @@ const Apps = () => {
       </div>
       <div className="my-2 md:flex justify-between">
         <h2 className="font-bold">({searchedProducts.length}) Apps Found</h2>
-        <label className="input">
+        <label className="input border-2 border-[#9f62f2]">
           <input
             value={search}
             onChange={(e) => setSearch(e.target.value)}
